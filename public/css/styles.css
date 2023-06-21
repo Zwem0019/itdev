@@ -1,0 +1,27 @@
+body {
+    background: lightgrey;
+}
+
+.navbar {
+    background: seashell;
+    height: 100px;
+    margin-top: -40px;
+    text-decoration-skip-box: unset;
+}
+
+.text {
+    color: #2d3748;
+    padding-top: 20px;
+    padding-left: 50%;
+}
+
+.card {
+    background: seashell;
+    border-radius: 20px;
+    height: 120px;
+}
+h4 {
+    margin-left: 30px;
+}
+
+
